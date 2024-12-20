@@ -41,13 +41,13 @@
   </a>
 </div>
 <div margin-top:12px;">
-  - 🌱 I’m currently learning **I'm currently learning Vue.js and Nuxt for advanced front-end development.**
+  - 🌱 I’m currently learning **I'm currently learning React and Next.js for advanced front-end development.**
 
 - 👯 I’m looking to collaborate on **web development projects, UI/UX design initiatives, or innovative IT solutions that push the boundaries of technology.**
 
 - 🤝 I’m looking for help with **advanced web development techniques, best practices in UI/UX design, and emerging trends in information technology.**
 
-- 💬 Ask me about **Ask me about web development, UI/UX design, Vue.js, and Nuxt.**
+- 💬 Ask me about **Ask me about web development, UI/UX design, React.js, and Next.js.**
 
 - 📫 How to reach me **muhammadheisyanaleandro@gmail.com**
 
